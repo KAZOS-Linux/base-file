@@ -1,4 +1,4 @@
 #!/bin/bash
 source .engine
 
-last_version_url http://kazos.ir55
+last_version_url http://kazos.ir50
