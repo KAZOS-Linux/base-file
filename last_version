@@ -1,4 +1,1 @@
-#!/bin/bash
-source .engine_v*
-
-last_version_url https://ftp.debian.org/debian/pool/main/b/base-files/base-files_14.2_arm64.deb
+https://ftp.debian.org/debian/pool/main/b/base-files/base-files_14.2_arm64.deb
